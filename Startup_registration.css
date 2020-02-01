@@ -1,0 +1,48 @@
+body{
+margin: 0;
+background-position: center;
+background-size: cover;
+padding:0;
+}
+
+.registrationbox{
+  width: 800px;
+  height: 550px;
+  top: 10%;
+  left: 20%;
+  position: absolute;
+  background: #000;
+  color: #fff;
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.avatar{
+  height: 100px;
+  width: 100px;
+  top: -50px;
+  left: calc(50% - 50px);
+  border-radius: 50%;
+  position: absolute;
+  border: 5px solid grey;
+}
+
+div {
+  width: 332px;
+  height: 448px;
+  padding: 0;
+  border: 5px solid gray;
+  margin: 0;
+  float: left;
+}
+
+
+div2 {
+  width: 332px;
+  float: right;
+  height: 430px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+
+}
